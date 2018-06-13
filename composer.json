@@ -1,6 +1,6 @@
 {
     "require": {
-        "pear/pear": "1.10",
+        "pear/pear": "1.10.4",
         "phpmailer/phpmailer": "6.0",
         "zendframework/zendframework": "2"
     }
